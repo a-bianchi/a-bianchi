@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 
-### I am Alejo bianchi 
+### I am Alejo Bianchi 
 
 - 🔭 I'm a Full Stack developer 👨‍💻🎧 passionate about web development, cloud computing architecture and learning new things.
 - 🌱 I'm constantly learning new languages to improve as a developer.
