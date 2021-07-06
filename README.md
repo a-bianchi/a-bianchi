@@ -3,7 +3,7 @@
 
 ### I am Alejo Bianchi 
 
-- 🔭 I'm a Full Stack developer 👨‍💻🎧 passionate about web development, cloud computing architecture and learning new things.
+- 🔭 I'm a developer 👨‍💻🎧 passionate about web development, cloud computing architecture and learning new things.
 - 🌱 I'm constantly learning new languages to improve as a developer.
 - 👯 I would like to collaborate in a javascript project 😀.
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alejo40740246)](https://twitter.com/Alejo40740246)
